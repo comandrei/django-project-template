@@ -10,4 +10,6 @@ Create project
 
 ```bash
 django-admin startproject test_project
+cd test_project
+django-admin startapp test_app
 ```
